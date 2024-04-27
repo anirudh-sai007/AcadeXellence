@@ -1,9 +1,3 @@
-Group 14-Team members:
-Khande Rao, Anirudh Sai (1002075887)
-Reddi, Sai Ruthwik (1002063535)
-Rajpurohit, Ravi (1002079916) 
-Sayyed, Aashiq (1002082459)
-Thaker, Rutva (1002121470)
 
 ReadMe
 
